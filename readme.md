@@ -1,8 +1,6 @@
 # Readme
----
 
 ## Overview
----
 These scripts implement a symmetry-based circuit mapping (SBCM) algorithm and benchmark its performance, demonstrating its computational advantage over existing methods. The SBCM algorithm leverages quantum hardware symmetries to enhance subgraph matching efficiency, a crucial aspect of finding feasible circuit mappings.
 
 In our numerical experiments, we consider three typical quantum hardware architectures, featuring 2D square grid, octagonal, and heavy-hex entangling-gate topologies, respectively.
